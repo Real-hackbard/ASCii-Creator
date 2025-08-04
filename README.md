@@ -1,10 +1,12 @@
 # ASCii-Creator:
 
+```
 Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
 Components  : None
 Discription : ASCii Calculator
 Last Update : 08/2025
 License     : Freeware
+```
 
 Load and generate ASCII images with one click.
 With this ASCII generator, you can change the intensity of the ASCII code. This means you can adjust the calculation of the respective color of the image. A black and white image is calculated differently than an image containing red, green, and blue tones. For a universal image, i.e., a single-color image, the calculation can be modified so that the ASCII conversion is more noticeable than with a standard calculation.
