@@ -1,6 +1,6 @@
 # ASCii-Creator:
 
-```
+```ruby
 Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
 Components  : None
 Discription : ASCii Calculator
@@ -15,7 +15,8 @@ With this ASCII generator, you can change the intensity of the ASCII code. This 
 ![ASCii Creator 1 0](https://github.com/user-attachments/assets/e5bf9bb3-7426-4563-a190-2b01ed53e82c)
 
 
-The following image formats are loaded:
+The image formats must be programmed separately and are compatible with the code. The basic format is bitmap.
+The following Image formats can be loaded:
 *.BMP; *.JPG; *.JPEG; *.GIF; *.PNG; *.EMF; *.WMF; *.ICO;
 
 The program uses all TTF font files installed on the system, but for a nice ASCII image, you should use the "Courier New" font set.
