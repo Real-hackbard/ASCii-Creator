@@ -8,6 +8,30 @@ Last Update : 08/2025
 License     : Freeware
 ```
 
+
+```                                                         
+                               >a?+roIHzv7?LIic*:                         
+                       ^7{inx({ f  ;l5NLh2qDSpNDNNDOTi                   
+                 ^+a2um%[    /)}b^pp4ONDNNNNDdSNBNN@NNNNUc               
+                [4OGGhdX@8ZdMHNBNNNNNNNNNNNNNNNNNNNNNNNNNNNQV?            
+             ,?];   j2n3NNNNNNNNNNNNNNNKONNNNNNNNNNNNNNNNNNNNNSw          
+          ohpyworr!2aSNNNNNN9MNNNFGbx \ (N@d5#WNNNNNzz%N@NNNNNNNG^       
+           l2#NNNNNNNNNKma~  3NNKi     4NNNNNzxpNNNNNy   ?3qKNNNNNK$      
+         [{zNNNNNNNNNV,      F@41i!oovHNNNNNN{[JFWNNQu     fZd0RBNNNq}    
+         x3OgRNNNNNMv         }>    _/IzNNN0{ru6ABHNq'     _{ZOZuL3%9h=   
+         l%pm8M$ -pS!          jxlo=o!*+){}c){FpGHNB\      ;$hfI   _l    
+               "7+){y           npYLyOGZ&5ZGJqqNNB+      _lG8HdfCudD=    
+               _v!\; ^.          ;9WBqdHdD0DMNNNNZ      '7MNNNNDGc|      
+                   +=_   .          )LpWNNNNND31   '+{VHNNd3f}[r          
+                     ;lGLf}L/\|        "r]{1]o+|UpGp0OyC}|                
+                         ;]i*x+[IF2?{I}xlL1&G2}+%dGxul+                   
+                            -  /(^~ w5b&$LU5F5x$I                        
+                                    +{:-"[](                              
+                                                                          
+```                                                      
+                                                                                                                
+
+
 Load and generate ASCII images with one click.
 With this ASCII generator, you can change the intensity of the ASCII code. This means you can adjust the calculation of the respective color of the image. A black and white image is calculated differently than an image containing red, green, and blue tones. For a universal image, i.e., a single-color image, the calculation can be modified so that the ASCII conversion is more noticeable than with a standard calculation.
 
