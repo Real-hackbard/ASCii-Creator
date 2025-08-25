@@ -8,6 +8,7 @@ Last Update : 08/2025
 License     : Freeware
 ```
 
+</br>
 
 ```                                                         
                                >a?+roIHzv7?LIic*:                         
@@ -30,14 +31,16 @@ License     : Freeware
                                                                           
 ```                                                      
                                                                                                                 
-
+</br>
 
 Load and generate ASCII images with one click.
 With this ASCII generator, you can change the intensity of the ASCII code. This means you can adjust the calculation of the respective color of the image. A black and white image is calculated differently than an image containing red, green, and blue tones. For a universal image, i.e., a single-color image, the calculation can be modified so that the ASCII conversion is more noticeable than with a standard calculation.
 
+</br>
 
 ![ASCii Creator 1 0](https://github.com/user-attachments/assets/e5bf9bb3-7426-4563-a190-2b01ed53e82c)
 
+</br>
 
 The image formats must be programmed separately and are compatible with the code. The basic format is bitmap.
 The following Image formats can be loaded:
