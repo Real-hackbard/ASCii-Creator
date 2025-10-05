@@ -59,3 +59,16 @@ The output is compatible with all text documents or string boxes on the Windows 
 * Export Bitmap, Jpg/Jpeg, Png, Gif
 
 With this ASCII Generator, it's possible to change the intensity of the ASCII code. This means you can adjust the calculation for each color in the image. A black and white Image is calculated differently than one containing red, green, and blue tones. For a universal image, i.e., a single-color Image, the calculation can be modified so that the ASCII conversion is more pronounced than with a standard calculation.
+
+
+### GpTextStream:
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+* The name of the Primoz Gabrijelcic may not be used to endorse or promote
+  products derived from this software without specific prior written permission.
