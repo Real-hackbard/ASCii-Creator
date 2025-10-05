@@ -44,9 +44,8 @@ With this ASCII Generator, you can change the intensity of the ASCII code. This 
 
 </br>
 
-The Image formats must be programmed separately and are compatible with the code. The basic format is bitmap.
 The following Image formats can be loaded:
 *.BMP; *.JPG; *.JPEG; *.GIF; *.PNG; *.EMF; *.WMF; *.ICO;
 
-The program uses all TTF font files installed on the system, but for a nice ASCII image, you should use the "Courier New" font set.
+The program uses all [TTF font files](https://en.wikipedia.org/wiki/TrueType) installed on the system, but for a nice [ASCII image](https://en.wikipedia.org/wiki/ASCII_art), you should use the "Courier New" font set.
 The output is compatible with all text documents or string boxes on the Windows system.
