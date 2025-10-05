@@ -49,3 +49,14 @@ The following Image formats can be loaded:
 
 The program uses all [TTF font files](https://en.wikipedia.org/wiki/TrueType) installed on the system, but for a nice [ASCII image](https://en.wikipedia.org/wiki/ASCII_art), you should use the "Courier New" font set.
 The output is compatible with all text documents or string boxes on the Windows system.
+
+### Features:
+* Scale ASCii Text
+* Unicode Format
+* Adjust Contrast to ASCii Text
+* Adjust Brightness to ASCii Text
+* Set RGB Color
+* Draw Text Editor to Image
+* Export Bitmap, Jpg/Jpeg, Png, Gif
+
+
