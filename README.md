@@ -72,3 +72,5 @@ are permitted provided that the following conditions are met:
   and/or other materials provided with the distribution.
 * The name of the Primoz Gabrijelcic may not be used to endorse or promote
   products derived from this software without specific prior written permission.
+
+### Have Fun with ASCii!
