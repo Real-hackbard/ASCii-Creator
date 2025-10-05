@@ -58,4 +58,4 @@ The output is compatible with all text documents or string boxes on the Windows 
 * Draw Text Editor to Image
 * Export Bitmap, Jpg/Jpeg, Png, Gif
 
-With this ASCII generator, it's possible to change the intensity of the ASCII code. This means you can adjust the calculation for each color in the image. A black and white image is calculated differently than one containing red, green, and blue tones. For a universal image, i.e., a single-color image, the calculation can be modified so that the ASCII conversion is more pronounced than with a standard calculation.
+With this ASCII Generator, it's possible to change the intensity of the ASCII code. This means you can adjust the calculation for each color in the image. A black and white Image is calculated differently than one containing red, green, and blue tones. For a universal image, i.e., a single-color Image, the calculation can be modified so that the ASCII conversion is more pronounced than with a standard calculation.
